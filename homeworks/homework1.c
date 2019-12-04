@@ -28,4 +28,4 @@ int main() {
   if(j != 0) {printf("%d^%d ",primenum ,j);}      //Print last primenum
 printf("\n");
 return 0;
-} //End main
+} //End main BU NASIL KOD AMCIK
